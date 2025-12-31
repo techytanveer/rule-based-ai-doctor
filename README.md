@@ -1,4 +1,4 @@
-# rule-based-ai-doctor
+# rule-based-ai-doctor-v1
 AI System Doctor for Linux (C++ Based) - Rule-Based AI
 
 A local AI-powered diagnostic and recommendation tool that:
